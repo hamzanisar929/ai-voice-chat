@@ -38,8 +38,8 @@ yarn install
 
 3. Create a `.env` file in the root directory:
 ```env
-VITE_OPENAI_API_KEY=your_openai_api_key
-VITE_ELEVEN_LABS_API_KEY=your_elevenlabs_api_key
+VITE_OPENAI_API_KEY=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
+ELEVENLABS_API_KEY=sk_a8e0842179b6e1845f676dc3e423e5dfb00c961f01325df5
 ```
 
 4. Start the development server:
